@@ -1,0 +1,67 @@
+body{
+background-color: rgb(34, 105, 117);
+
+}
+
+a {
+    display: flexbox;
+    width: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    border: radius 50px;
+    margin: 3px 3px;
+    padding: 15px 30px;
+    background-color: rgb(83, 2, 2);
+    color: rgb(245, 245, 245);
+    text-decoration: rgb(255, 255, 255)
+
+}
+
+
+
+@import url(../contactos/contactos.html);
+
+body{
+    background-color:rgb(88, 30, 143)
+}
+
+a{
+    display: flexbox;
+    width: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    border: radius 50px;
+    margin: 3px 3px;
+    padding: 15px 30px;
+    background-color: rgb(83, 2, 2);
+    color: rgb(245, 245, 245);
+    text-decoration: rgb(255, 255, 255)
+
+
+}
+
+@import url(../nosotros/nosotros.html);
+
+body{
+    background-color: rgb(88, 30, 143);
+}
+
+a {
+    display: flexbox;
+    width: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 80;
+    font-weight: 100;
+    border: radius 50px;
+    margin: 3px 3px;
+    padding: 15px 30px;
+    background-color: rgb(85, 2, 2);
+    color: rgb(255, 255, 255);
+    text-decoration: rgb(255, 255, 255)
+}
+
+
+
+
+
+
+
